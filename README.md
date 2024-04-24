@@ -1,1 +1,1 @@
-# app-engine-dotnet-core-sample
+# Dot Net Sample Code for App Engine FCI
